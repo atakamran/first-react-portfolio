@@ -28,26 +28,20 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"> </i>
                         <h3 className="services__modal-title"> I can desing what you imagine </h3>
                         <p className="services__modal-description">
-                            Service with more than 3 years of expreience. providing quality work to clients and companies.
+                            Designing assests for metaverse and games
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="iol iol-check-circle services__modal-icon"></i>
                                 <p className="service__modal-info">
-                                    I develop the user interface.
+                                    Rendering in UE5
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <i className="iol iol-check-circle services__modal-icon"></i>
                                 <p className="service__modal-info">
-                                    Web Page development.
-                                </p>
-                            </li>
-                            <li className="services__modal-service">
-                                <i className="iol iol-check-circle services__modal-icon"></i>
-                                <p className="service__modal-info">
-                                    I create 3D model.
+                                    Designing in Blender
                                 </p>
                             </li>
                         </ul>
@@ -83,12 +77,6 @@ const Services = () => {
                                 <i className="iol iol-check-circle services__modal-icon"></i>
                                 <p className="service__modal-info">
                                     Web Page development.
-                                </p>
-                            </li>
-                            <li className="services__modal-service">
-                                <i className="iol iol-check-circle services__modal-icon"></i>
-                                <p className="service__modal-info">
-                                    I create 3D model.
                                 </p>
                             </li>
                         </ul>

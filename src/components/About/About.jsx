@@ -18,7 +18,7 @@ const About = () => {
               Frontend developer, I create web pages with UI / UX user interface, I have years of experience and I am happy with my job.
             </p>
 
-            <a href="https://jobinja.ir/user/ata" className="button button--flex"> My CV 
+            <a href="https://jobinja.ir/user/ata" target="_blank" className="button button--flex"> My CV 
             <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
